@@ -1,0 +1,6 @@
+{
+  "name": "Shadow Runner",
+  "description": "Escape the shadow in a neon cyberpunk endless runner. Jump over walls, slide under lethal lasers, collect energy coins, and set new high scores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
